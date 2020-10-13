@@ -1,0 +1,7 @@
+.banner{
+    height: 1.5rem ;
+    touch-action: none;
+}
+.am-carousel,.slider-frame,.slider-list,.banner img,.slider-slide{
+    height: 100% !important;
+}
